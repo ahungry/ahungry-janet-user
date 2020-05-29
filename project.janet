@@ -3,8 +3,8 @@
  :description "User of those libs"
  :author "Matthew Carter"
  :license "GPLv3"
- :url "https://github.com/ahungry/ahungry-janet/"
- :repo "git+https://github.com/ahungry/xbuild.git"
+ :url "https://github.com/ahungry/ahungry-janet-user/"
+ :repo "git+https://github.com/ahungry/ahungry-janet-user.git"
  # Optional urls to git repositories that contain required artifacts.
  :dependencies
  [
